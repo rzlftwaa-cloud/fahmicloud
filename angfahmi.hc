@@ -9,7 +9,7 @@
 						"settings": {
 								"vnext": [
 										{
-												"address": "2k2q69.onelimited.my.id",
+												"address": "104.26.6.171",
 												"port": 80,
 												"users": [
 														{
